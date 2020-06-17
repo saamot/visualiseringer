@@ -1,0 +1,38 @@
+system,poeng,snittForr,snittTek,timer,kategori
+Telefly,98,5.16,2.50,5,Fagsystem
+Autosys,78,4.10,2.00,5,Fagsystem
+PLBsys,96,5.05,2.00,5,Fagsystem
+Tilsynsat,77,4.20,5.96,5,Fagsystem
+Nettprioritet,75,4.41,2.00,5,Fagsystem
+Nettutfall,49,2.88,3.50,5,Fagsystem
+Ekomstat,45,2.60,2.00,5,Fagsystem
+5-siffer,75,4.17,2.50,5,Fagsystem
+Numsys,87,4.83,2.50,5,Fagsystem
+ICS,0,5.50,3.00,5,Fagsystem
+Kunderegister,0,5.50,5.50,5,Fagsystem
+Jira,0,4.00,5.00,20,IT støtte
+Sensedesk,0,5.00,5.00,20,IT støtte
+Compose,0,3.00,3.00,20,IT støtte
+Jasper Reports,0,1.00,2.50,20,IT støtte
+MS SCOM,0,4.00,5.00,20,IT støtte
+VMWare,0,4.00,4.00,20,IT støtte
+MS SCCM,0,4.00,4.00,20,IT støtte
+Webdok,0,6.00,2.00,40,Kjernesystem
+Agresso,0,6.00,2.00,40,Kjernesystem
+Nkom.no,0,6.00,5.50,40,Kjernesystem
+Contempus,0,5.00,4.00,40,Kjernesystem
+MinHR/DFØ,0,5.00,5.00,40,Kjernesystem
+Exchange,0,5.00,2.50,50,Samhandling
+Skype,0,5.00,3.00,50,Samhandling
+Confluence,0,3.50,4.00,50,Samhandling
+Sharepoint,0,4.00,4.00,50,Samhandling
+Active Directory,0,4.00,4.00,50,Samhandling					
+FortiVPN,0,5.50,5.50,60,Nettverk
+Citrix,0,2.00,2.00,60,Nettverk
+Point sharp,0,4.00,4.00,60,Nettverk
+DNS,0,6.00,6.00,60,Nettverk
+Finnsenderen,72,4.80,2.50,10,Webportal
+ForenkletLisensiering,47,2.76,3.50,10,Webportal
+Frekvensportalen,72,4.24,2.50,10,Webportal
+Linkplanlegger,62,3.65,3.50,10,Webportal
+Ekomstatistikken,67,3.94,2.50,10,Webportal
